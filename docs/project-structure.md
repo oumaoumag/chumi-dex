@@ -7,8 +7,8 @@ This file structure  integrates the backend (smart contracts in Foundry) and fro
 ### File Structure
 
 ```
-project-root/
-├── chumidex/                               # Foundry project for smart contracts
+chumi-dex/
+├── backend/                               # Foundry project for smart contracts
 │   ├── src/                                # Smart contract source files
 │   │   ├── tokens/                         # Token-related contracts
 │   │   │   └── RegionalAssetToken.sol      # ERC-20 token for NSE stocks
