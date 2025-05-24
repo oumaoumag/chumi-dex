@@ -90,7 +90,7 @@ This directory contains the Foundry project for smart contracts, as outlined in 
   - Contains test files for each contract (e.g., `RegionalAssetToken.t.sol`, `Pair.t.sol`) using Foundry’s testing framework (`forge test`), as recommended in `project-tooling.md`.
 
 - **script/**:
-  - **`Deploy.s.sol`**: A deployment script to deploy all contracts to Lisk L2 testnet, replacing the example `Counter.s.sol`.
+  - **`Deploy.s.sol`**: A deployment script to deploy all contracts to Lisk L2 testnet.
 
 - **foundry.toml**:
   - Configured with the Lisk L2 RPC endpoint (e.g., `https://lisk-l2-rpc.com`) for testing and deployment, as mentioned in the previous response.
