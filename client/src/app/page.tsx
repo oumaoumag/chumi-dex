@@ -17,7 +17,7 @@ export default function Home() {
         <Link href="/governance" className="bg-blue-500 text-white p-4 rounded hover:bg-blue-600">
         Governance
         </Link>
-        <Link href="/dashboard" className="bg-blue-500 text-white p4 rounded hover:bg-blue-600">
+        <Link href="/dashboard" className="bg-blue-500 text-white p-4 rounded hover:bg-blue-600">
         Dashboard
         </Link>
       </div>
